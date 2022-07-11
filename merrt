@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+<o id="14834194" url="-" price="210.00" weight="0" stock="142">
+    <cat>ZAWIESZENIE</cat>
+    <name>PODUSZKA - CITROEN C4 PICASSO (B)</name>
+    <imgs>
+      <main url="https://upload.cdn.baselinker.com/products/1008601/14834194.jpg"/>
+      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_1.jpg"/>
+      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_2.jpg"/>
+      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_3.jpg"/>
+      <i url=""/>
+    </imgs>
+    <desc><![CDATA[&lt;section class="section"&gt;
+        &lt;div class="item item-12"&gt;
+            &lt;section class="text-item"&gt;
+                &lt;h1&gt;FABRYCZNIE NOWY MIECH ZAWIESZENIA PNEUMATYCZNEGO&lt;/h1&gt;&lt;p&gt;Pasuje do Citroen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;CITROEN C4 PICASSO&lt;/b&gt;; rok produkcji (2007-2013)&lt;/li&gt;&lt;li&gt;&lt;b&gt;CITROEN C4 GRAND PICASSO&lt;/b&gt;; rok produkcji (2006-2016)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;*Zastosowanie do każdej wersji silnikowej&lt;/p&gt;
+            &lt;/section&gt;
+        &lt;/div&gt;
+        &lt;/section&gt;]]></desc>
+  </o>
+  
+</offers>

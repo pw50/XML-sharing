@@ -1,22 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?>
-<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
-<o id="14834194" url="-" price="210.00" weight="0" stock="555">
-    <cat>ZAWIESZENIE</cat>
-    <name>PODUSZKA - CITROEN C4 PICASSO (B)</name>
-    <imgs>
-      <main url="https://upload.cdn.baselinker.com/products/1008601/14834194.jpg"/>
-      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_1.jpg"/>
-      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_2.jpg"/>
-      <i url="https://upload.cdn.baselinker.com/products/1008601/14834194_3.jpg"/>
-      <i url=""/>
-    </imgs>
-    <desc><![CDATA[&lt;section class="section"&gt;
-        &lt;div class="item item-12"&gt;
-            &lt;section class="text-item"&gt;
-                &lt;h1&gt;FABRYCZNIE NOWY MIECH ZAWIESZENIA PNEUMATYCZNEGO&lt;/h1&gt;&lt;p&gt;Pasuje do Citroen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;CITROEN C4 PICASSO&lt;/b&gt;; rok produkcji (2007-2013)&lt;/li&gt;&lt;li&gt;&lt;b&gt;CITROEN C4 GRAND PICASSO&lt;/b&gt;; rok produkcji (2006-2016)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;*Zastosowanie do każdej wersji silnikowej&lt;/p&gt;
-            &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;/section&gt;]]></desc>
-  </o>
-  
-</offers>
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<products>
+
+
+-<product>
+
+<product_id>14833100</product_id>
+
+<name>PODUSZKA - BMW F11 F07 (B)</name>
+
+<ean>5904653960603</ean>
+
+<category_name>ZAWIESZENIE</category_name>
+
+<manufacturer_name>MERTT</manufacturer_name>
+
+<tax_rate>23%</tax_rate>
+
+<description><section class="section"><div class="item item-12"><section class="text-item"><h1>FABRYCZNIE NOWY MIECH ZAWIESZENIA PNEUMATYCZNEGO</h1><p>Pasuje do BMW:</p><ul><li>BMW 5 TOURING F11 (2009-2018)</li><li>BMW 5 F10 (2009-2018)</li><li>BMW 5 GRAN TOURISMO F07 (2009-2018)</li></ul><p>*Zastosowanie do każdej wersji silnikowej</p></section></div></section></description>
+
+<description_extra_1><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>PARAMETRY:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Strona zabudowy: Oś tylna - <b>Lewa / Prawa</b> strona</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Dystrybutor: <b>MERTT</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b><br></b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>ZASTOSOWANE NUMERY OEM:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106781827     37 10 6 781 827     6781827</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106781828     37 10 6 781 828     6781828</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106781843     37 10 6 781 843     6781843</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106781844     37 10 6 781 844     6781844</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106784378     37 10 6 784 378     6784378</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106784379     37 10 6 784 379     6784379</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106784380     37 10 6 784 380     6784380</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37106784381     37 10 6 784 381     6784381</p></description_extra_1>
+
+<description_extra_2/>
+
+<image>https://upload.cdn.baselinker.com/products/1008601/14833100.jpg</image>
+
+<image_extra_1>https://upload.cdn.baselinker.com/products/1008601/14833100_1.jpg</image_extra_1>
+
+<image_extra_2>https://upload.cdn.baselinker.com/products/1008601/14833100_2.jpg</image_extra_2>
+
+<image_extra_3>https://upload.cdn.baselinker.com/products/1008601/14833100_3.jpg</image_extra_3>
+
+<image_extra_4/>
+
+<image_extra_5/>
+
+<image_extra_6/>
+
+<image_extra_7/>
+
+<image_extra_8/>
+
+<image_extra_9/>
+
+<image_extra_10/>
+
+<image_extra_11/>
+
+<image_extra_12/>
+
+<image_extra_13/>
+
+<image_extra_14/>
+
+<image_extra_15/>
+
+<variants> </variants>
+
+<attributes> </attributes>
+
+</product>
+
+
+-<product>
+
+<product_id>14833175</product_id>
+
+<name>PODUSZKA - BMW E61 (B)</name>
+
+<ean>5904653960795</ean>
+
+<category_name>ZAWIESZENIE</category_name>
+
+<manufacturer_name>MERTT</manufacturer_name>
+
+<tax_rate>23%</tax_rate>
+
+<description><h1 style="line-height: 1.3; font-size: 24px; color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif;">FABRYCZNIE NOWY MIECH ZAWIESZENIA PNEUMATYCZNEGO</h1><h2 style="line-height: 1.3; font-size: 18px; color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif;">Dedykowany do BMW:</h2><ul style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><li>BMW 5 TOURING E61 (2003-2010)</li><li>BMW 5 E60 (2003-2010)</li></ul><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">*Zastosowanie do każdej wersji silnikowej</p></description>
+
+<description_extra_1><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>PARAMETRY:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Strona zabudowy: Oś tylna - <b>Lewa / Prawa</b> strona</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Dystrybutor: <b>MERTT</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>ZASTOSOWANE NUMERY OEM:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>ARNOTT       </b>A-2755</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BILSTEIN      </b>40-303567</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37 12 6 765 603</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>BMW       </b>37 12 6 765 602</p></description_extra_1>
+
+<description_extra_2/>
+
+<image>https://upload.cdn.baselinker.com/products/1008601/14833175.jpg</image>
+
+<image_extra_1>https://upload.cdn.baselinker.com/products/1008601/14833175_1.jpg</image_extra_1>
+
+<image_extra_2>https://upload.cdn.baselinker.com/products/1008601/14833175_2.jpg</image_extra_2>
+
+<image_extra_3>https://upload.cdn.baselinker.com/products/1008601/14833175_3.jpg</image_extra_3>
+
+<image_extra_4/>
+
+<image_extra_5/>
+
+<image_extra_6/>
+
+<image_extra_7/>
+
+<image_extra_8/>
+
+<image_extra_9/>
+
+<image_extra_10/>
+
+<image_extra_11/>
+
+<image_extra_12/>
+
+<image_extra_13/>
+
+<image_extra_14/>
+
+<image_extra_15/>
+
+<variants> </variants>
+
+<attributes> </attributes>
+
+</product>
+
+
+-<product>
+
+<product_id>14834173</product_id>
+
+<name>PODUSZKA - AUDI A6 (B)</name>
+
+<ean>5904653960962</ean>
+
+<category_name>ZAWIESZENIE</category_name>
+
+<manufacturer_name>MERTT</manufacturer_name>
+
+<tax_rate>23%</tax_rate>
+
+<description><h1 style="line-height: 1.3; font-size: 24px; color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif;">FABRYCZNIE NOWY MIECH ZAWIESZENIA PNEUMATYCZNEGO</h1><h2 style="line-height: 1.3; font-size: 18px; color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif;">Dedykowany do Audi:</h2><ul style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><li>AUDI A6 C6 (2004-2011)</li><li>AUDI A6 C6 AVANT (2004-2011)</li><li>AUDI A6 C6 ALLROAD (2005-2011)</li></ul><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">*Zastosowanie do każdej wersji silnikowej</p></description>
+
+<description_extra_1><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>PARAMETRY:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Strona zabudowy: Oś tylna - <b>Lewa / Prawa</b> strona</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;">Dystrybutor: <b>MERTT</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>ZASTOSOWANE NUMERY OEM:</b></p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>AUDI      </b>4F0616001</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>AUDI      </b>4F0616001J</p><p style="color: rgb(34, 34, 34); font-family: "Open Sans", sans-serif; font-size: 16px;"><b>AUDI      </b>4F0 616 001</p></description_extra_1>
+
+<description_extra_2/>
+
+<image>https://upload.cdn.baselinker.com/products/1008601/14834173.jpg</image>
+
+<image_extra_1>https://upload.cdn.baselinker.com/products/1008601/14834173_1.jpg</image_extra_1>
+
+<image_extra_2>https://upload.cdn.baselinker.com/products/1008601/14834173_2.jpg</image_extra_2>
+
+<image_extra_3>https://upload.cdn.baselinker.com/products/1008601/14834173_3.jpg</image_extra_3>
+
+<image_extra_4/>
+
+<image_extra_5/>
+
+<image_extra_6/>
+
+<image_extra_7/>
+
+<image_extra_8/>
+
+<image_extra_9/>
+
+<image_extra_10/>
+
+<image_extra_11/>
+
+<image_extra_12/>
+
+<image_extra_13/>
+
+<image_extra_14/>
+
+<image_extra_15/>
+
+<variants> </variants>
+
+<attributes> </attributes>
+
+</product>
+
+</products>
